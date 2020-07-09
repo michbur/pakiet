@@ -10,7 +10,7 @@ hello(x)
 \item{x}{the name of the user.}
 }
 \description{
-The greeting function greets the user.
+The greeting function greets the user. Gagat
 }
 \details{
 This function uses \code{\link[base]{paste}}.

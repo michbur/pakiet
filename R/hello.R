@@ -1,6 +1,6 @@
 #' Greeting function
 #'
-#' The greeting function greets the user.
+#' The greeting function greets the user. Gagat
 #' @param x the name of the user.
 #' @export
 #' @details This function uses \code{\link[base]{paste}}.
